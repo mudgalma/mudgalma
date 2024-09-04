@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mudgalma
+- 👋 Hi, I’m @Mahi Mugdal
 - 👀 I’m Data Enthusiast
 - 🌱 I’m currently learning Deep learning
 
