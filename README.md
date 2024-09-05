@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahi Mugdal
-- 👀 I’m Data Enthusiast
+- 👀 I’m Tech Enthusiast
 - 🌱 I’m currently learning Deep learning
 
 
